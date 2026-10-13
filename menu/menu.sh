@@ -1,5 +1,5 @@
 MYIP=$(curl -sS ipv4.icanhazip.com)
-readonly SERVER_HOST="https://raw.githubusercontent.com/RootNexTPro/nexTPro-ScriptAll/main"
+readonly SERVER_HOST="https://raw.githubusercontent.com/wilfriedekongolo320-debug/Nexus-_script-/main"
 clear
 LN='[34m'
 BG='[44m'
@@ -51,7 +51,7 @@ status_ws="${RD}OFF${NC}"
 fi
 clear
 echo -e "${LN}┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓${NC}"
-echo -e "${LN}┃${NC} ${BG}                 NEXUS TUNNEL PRO                ${NC} ${LN}┃${NC}"
+echo -e "${LN}┃${NC} ${BG}                🇨🇲THE_S TUNNEL PRO                ${NC} ${LN}┃${NC}"
 echo -e "${LN}┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛${NC}"
 echo -e "${LN}┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓${NC}"
 echo -e "${LN}┃${NC}  OS         : $OS $VER"
@@ -97,8 +97,8 @@ fi
 VERSION=$(cat /etc/version)
 echo -e "${LN}┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓${NC}"
 echo -e "${LN}┃${NC} • VERSION      : ${VERSION}"
-echo -e "${LN}┃${NC} • SCRIPT BY    : NEXUS TEAM"
-echo -e "${LN}┃${NC} • CONTACT INFO : +237 659 620 977"
+echo -e "${LN}┃${NC} • SCRIPT BY    : THE_S"
+echo -e "${LN}┃${NC} • CONTACT INFO : t.me/THE_S_NET"
 echo -e "${LN}┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛${NC}"
 echo -e "${LN}●━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━●${NC}"
 echo -e   ""
