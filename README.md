@@ -64,7 +64,7 @@ This script is provided free of charge and may be used without a license or doma
 ## Installation
  
 <pre>
-<code>wget -O /root/nexus.sh https://raw.githubusercontent.com/wilfriedekongolo320-debug/Nexus-_script-/main/nexus.sh && chmod +x /root/nexus.sh && bash /root/nexus.sh</code>
+<code>wget -O /root/nexus.sh https://raw.githubusercontent.com/wilfriedekongolo320-debug/Nexus-_script-/main/nexus.sh && chmod +x /root/nexus.sh && bash /autoinstall.sh/nexus.sh</code>
 </pre>
 
 ## Nexus Tunnel Web Panel
